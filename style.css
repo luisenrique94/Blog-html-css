@@ -1,0 +1,18 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;/*tipo de texto*/
+    font-size: 15px;
+}
+h1,h2{
+    color: blue; /*color del texto*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;/*tipo de texto*/
+
+}
+h1{
+    font-size: 45px; /*tamaño del texto*/
+}
+h2{
+    font-size: 20px; /*tamaño del texto*/
+}
+p{
+    text-align: justify; /*justificar el texto*/
+}
